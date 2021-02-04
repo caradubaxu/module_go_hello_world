@@ -1,4 +1,4 @@
-package main
+package greet
 
 // Greet - Returns a greeting
 func Greet() string {
