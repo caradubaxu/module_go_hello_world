@@ -2,5 +2,5 @@ package main
 
 // Greet - Returns a greeting
 func Greet() string {
-	return "Olá"
+	return "Hello World"
 }
